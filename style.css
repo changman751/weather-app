@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-image: linear-gradient(to bottom right, #c5c5c2, #438399);
+/*   background-image: linear-gradient(to bottom right, #c5c5c2, #438399); */
   min-height: 100vh;
   max-width: 100%;
   font-family: "Six Caps", sans-serif;
@@ -20,7 +20,7 @@ body {
   display: flex;
   border: 15px solid #100b16;
   border-radius: 3px;
-  background-image: url(images/corn-fields-under-white-clouds-with-blue-sky-during-daytime-158827.jpg);
+/*   background-image: url(images/corn-fields-under-white-clouds-with-blue-sky-during-daytime-158827.jpg); */
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
